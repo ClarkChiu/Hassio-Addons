@@ -8,6 +8,8 @@ Plugins:
 * MaryTTS - A local Text-To-Speech system.
 * PicoTTS - Text to speech voice sinthesizer from SVox, included in Android AOSP.
 
-### Licence ![GitHub](https://img.shields.io/github/license/Poeschl/Hassio-Addons)
+### Licence
 
 The licence of the repository is inherited by the plugins, if not stated different.
+
+![GitHub](https://img.shields.io/github/license/Poeschl/Hassio-Addons)
